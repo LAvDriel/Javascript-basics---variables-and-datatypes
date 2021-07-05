@@ -30,3 +30,27 @@ if (driverStatus === "bob") {
 } else {
   console.log("Je bent geen bob, hier met die autosleutels");
 }
+
+const age = 25
+if (age <=18 && age <= 25) {
+  console.log ("je krijgt 50% korting!")
+} else {
+  console.log ("volle pond voor jou!")
+}
+
+
+const firstName = Sarah 
+if (firstName is Bram || firstName = Sarah) {
+  console.log ("Gefeliciteerd! je krijgt een gratis biertje");
+} else {
+  console.log ("helaas, dat wordt dokken voor jou");
+}
+
+const totalAmount = 100
+if (totalAmount <25) {
+  console.log ("Gefeliciteerd, gratis portie bitterballen")
+} else (totalAmount <50) {
+  console.log ("Gefeliciteerd, gratis portie nacho's")
+} else (totalAmount <=100) {
+  console.log ("Gefeliciteerd, gratis fles champagne")
+}
